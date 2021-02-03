@@ -2,3 +2,4 @@ paddlepaddle
 paddlehub
 visualdl
 paddleseg
+paddlenlp
