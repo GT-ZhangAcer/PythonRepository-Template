@@ -1,1 +1,4 @@
 paddlepaddle
+paddlehub
+visualdl
+paddleseg
