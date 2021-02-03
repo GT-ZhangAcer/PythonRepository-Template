@@ -1,4 +1,4 @@
-# AI Studio项目迁移模板
+# Python代码仓库标准化Template
 
 ![GitHub forks](https://img.shields.io/github/forks/GT-ZhangAcer/AI-Studio-Template?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/GT-ZhangAcer/AI-Studio-Template?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/GT-ZhangAcer/AI-Studio-Template?label=%E5%9C%A8AI_Studio%E4%B8%8A%E8%BF%90%E8%A1%8C&style=for-the-badge)  
 
