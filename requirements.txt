@@ -3,3 +3,4 @@ paddlehub
 visualdl
 paddleseg
 paddlenlp
+paddleocr
