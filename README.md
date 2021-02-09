@@ -2,7 +2,7 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/GT-ZhangAcer/PythonRepository?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/GT-ZhangAcer/PythonRepository?style=for-the-badge) 
 
-这是一个简单的迁移模板，使用者只需在[模板仓库](https://github.com/GT-ZhangAcer/PythonRepository)中点击[use this template](https://github.com/GT-ZhangAcer/PythonRepository)即可创建属于自己的具备前端页面空白Paddle项目。
+这是一个简单的迁移模板，使用者只需在[模板仓库](https://github.com/GT-ZhangAcer/PythonRepository-Template)中点击[use this template](https://github.com/GT-ZhangAcer/PythonRepository-Template/generate)即可创建属于自己的具备前端页面空白Paddle项目。
 
 
 ## 项目结构
@@ -21,7 +21,7 @@
 ## 使用方法
 
 ### Step1 使用模板仓库创建一个新的个人仓库
-进入[模板仓库]()主页，获取最新模板或点击[此处](https://github.com/GT-ZhangAcer/PythonRepository/generate)立即创建一个这样的特殊仓库。
+进入[模板仓库]()主页，获取最新模板或点击[此处](https://github.com/GT-ZhangAcer/PythonRepository-Template/generate)立即创建一个这样的特殊仓库。
 <img src="https://ai-studio-static-online.cdn.bcebos.com/77a8ffd9cd9b4953a39f609bb2b0a4903bc046f354944d5d9ee776676f580095" width="800px">  
 简单填写仓库信息  
 <img src="https://ai-studio-static-online.cdn.bcebos.com/e42d4a7b3a064e788b0761570b19b27e18f19a9eeba44c21abf22d7270e38fda" width="800px">
