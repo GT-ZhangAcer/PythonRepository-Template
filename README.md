@@ -1,6 +1,6 @@
 # Python代码仓库模板
 
-![GitHub forks](https://img.shields.io/github/forks/GT-ZhangAcer/PythonRepository?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/GT-ZhangAcer/PythonRepository?style=for-the-badge) 
+![GitHub forks](https://img.shields.io/github/forks/GT-ZhangAcer/PythonRepository-Template?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/GT-ZhangAcer/PythonRepository-Template?style=for-the-badge) 
 
 这是一个简单的迁移模板，使用者只需在[模板仓库](https://github.com/GT-ZhangAcer/PythonRepository-Template)中点击[use this template](https://github.com/GT-ZhangAcer/PythonRepository-Template/generate)即可创建属于自己的具备前端页面空白Paddle项目。
 
